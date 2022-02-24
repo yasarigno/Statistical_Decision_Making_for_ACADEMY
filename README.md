@@ -5,7 +5,7 @@
 
 In this project we analyse the dataset of the world bank data catalogue in order to help the ACADEMY, a start-up project.
 
-Academy wants to expand into a new country. Our aim is to determine whether the education data of the world bank can inform the expansion project.
+Academy is an online education platform and wants to expand into a new country. Our aim is to determine whether the education data of the world bank can inform the expansion project.
 
 We have obtained a list of countries which are possibly the most suitable ones for our start-up. More precisely, we have answered the following questions:
 
