@@ -1,4 +1,5 @@
-### PROJET-2 Statistical analysis of educational systems (START-UP PROJECT OF "ACADEMY")
+### PROJET-2 Statistical analysis of educational systems 
+# Start-up project of the "ACADEMY"
 
 In this project we analyse the dataset of the world bank data catalogue in order to help the ACADEMY, a start-up project.
 
