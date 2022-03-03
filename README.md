@@ -3,7 +3,7 @@
 ### Start-up project of the "ACADEMY"
 ---
 
-In this project we analyse the dataset of the world bank data catalogue in order to help the ACADEMY, a start-up project.
+In this project we analyse the dataset of the world bank data catalogue in order to help the ACADEMY, a start-up project, achieve its goals in the market.
 
 Academy is an online education platform and wants to open up to a new country. Our aim is to determine whether the education data of the world bank can give us an idea about the expansion project.
 
