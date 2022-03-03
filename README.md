@@ -22,6 +22,8 @@ Data source:
 
 https://datacatalog.worldbank.org/dataset/education-statistics
 
+It should be noted that the dataset in the link is huge. The very first step is to select the indicators related to the current problematic. 
+
 ---
 Technical tools used in this project are
   - Pandas
