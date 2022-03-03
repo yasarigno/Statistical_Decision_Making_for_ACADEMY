@@ -32,5 +32,5 @@ Technical tools used in this project are
 Here is a good picture showing the final result.
 
 <p align="center">
-<img align="center" src="support\figure_pays_en_priorite.png" style="width: 300px" />
+<img align="center" src="support\figure_pays_en_priorite.png" style="width: 800px" />
 </p>
