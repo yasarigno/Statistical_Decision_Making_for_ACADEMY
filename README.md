@@ -21,3 +21,16 @@ We have obtained a list of countries which are possibly the most suitable ones f
 Data source:
 
 https://datacatalog.worldbank.org/dataset/education-statistics
+
+---
+Technical tools used in this project are
+  - Pandas
+  - Numpy
+  - Seaborn
+  - Matplotlib
+
+Here is a good picture showing the final result.
+
+<p align="center">
+<img align="center" src="support\figure_pays_en_priorite.png" style="width: 300px" />
+</p>
