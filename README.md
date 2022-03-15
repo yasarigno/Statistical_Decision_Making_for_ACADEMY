@@ -1,6 +1,6 @@
 ---
 ### PROJET-2 
-### Statistical analysis of educational systems
+### Statistical analysis of educational systems to assist in decision-making for the international expansion of ACADEMY, an online learning platform
 ---
 ### Start-up project of the "ACADEMY"
 <p align="center">
