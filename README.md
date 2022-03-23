@@ -1,6 +1,9 @@
 ---
 ### PROJET-2 
 ### Statistical analysis of educational systems to assist in decision-making for the international expansion of ACADEMY, an online learning platform
+
+[Click here](https://yasarigno.github.io/folder/P2_support.pdf) for the presentation file of the project. 
+
 ---
 ### Start-up project of the "ACADEMY"
 <p align="center">
